@@ -1,6 +1,7 @@
 # Habit Tracker Starter Code
  
 habits = {}  
+test_dictionary = {}
 # Example structure:
 # {
 #   "Exercise": [1, 0, 1, 1, 0, 1, 0],
